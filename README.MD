@@ -10,13 +10,13 @@ Objetivo: Desenvolver lógica básica de programação e se familiarizar com a l
 
 [Operadores matemáticos e lógicos](etapa-1/fundamentos_operadores_logicos.md)
 
-Estruturas condicionais
+[Estruturas condicionais](etapa-1/fundamentos_estruturas_condicionais.md)
 
-Estruturas de repetição
+[Estruturas de repetição](etapa-1/fundamentos_estruturas_condicionais.md)
 
-Funções nativas
+[Funções nativas](etapa-1/fundamentos_funcoes_nativas.md)
 
-Exercícios de lógica (ex: tabuada, par ou ímpar, calculadora simples)
+[Exercícios de lógica](etapa-1/exercicios_etapa-1.md)
 
 ## Etapa 2: Estruturas de Dados
 Objetivo: Aprender a armazenar, acessar e manipular coleções de dados.
