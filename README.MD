@@ -12,7 +12,7 @@ Objetivo: Desenvolver lógica básica de programação e se familiarizar com a l
 
 [Estruturas condicionais](etapa-1/fundamentos_estruturas_condicionais.md)
 
-[Estruturas de repetição](etapa-1/fundamentos_estruturas_condicionais.md)
+[Estruturas de repetição](etapa-1/fundamentos_lacos_repeticao.md)
 
 [Funções nativas](etapa-1/fundamentos_funcoes_nativas.md)
 
@@ -21,21 +21,21 @@ Objetivo: Desenvolver lógica básica de programação e se familiarizar com a l
 ## Etapa 2: Estruturas de Dados
 Objetivo: Aprender a armazenar, acessar e manipular coleções de dados.
 
-Listas
+[Listas](etapa-2/estrutura_listas.md)
 
-Tuplas
+[Tuplas](etapa-2/estrutura_tuplas.md)
 
-Conjuntos (set)
+[Conjuntos (set)](etapa-2/estrutura_set.md)
 
-Dicionários (dict)
+[Dicionários (dict)](etapa-2/estrutura_dicts.md)
 
-Iteração com for e enumerate
+[Iteração com for e enumerate](etapa-2/estrutura_iterator_enum.md)
 
-Compreensões de listas (list comprehensions)
+[Compreensões de listas (list comprehensions)](etapa-2/estrutura_list_comprehension.md)
 
-Métodos úteis (append, pop, keys, values, items, etc.)
+[Métodos úteis (append, pop, keys, values, items, etc.)](etapa-2/estrutura_utils.md)
 
-Exercícios com CRUD em listas e dicionários
+[Exercícios com CRUD em listas e dicionários](etapa-2/exercicios_etapa-2.md)
 
 ✅ Etapa 3: Funções
 Objetivo: Modularizar o código e introduzir conceitos de escopo e reutilização.
@@ -133,7 +133,6 @@ Web scraping básico com requests + BeautifulSoup
 CRUD com JSON persistido
 
 ✅ Etapa 10: Caminhos Futuros (Especializações)
-Após domínio básico, direcione os alunos conforme interesse:
 
 Web: Flask, Django
 
