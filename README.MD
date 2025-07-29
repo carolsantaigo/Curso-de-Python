@@ -40,17 +40,21 @@ Objetivo: Aprender a armazenar, acessar e manipular coleções de dados.
 ✅ Etapa 3: Funções
 Objetivo: Modularizar o código e introduzir conceitos de escopo e reutilização.
 
-Declaração e chamada de funções (def)
+[Declaração e chamada de funções (def)](etapa-3/funcoes.MD)
 
-Parâmetros e argumentos
+[Parâmetros e argumentos](etapa-3/params.MD)
 
-return e valores de retorno
+[return e valores de retorno](etapa-3/return.MD)
 
-Escopo de variáveis (local vs global)
+[Escopo de variáveis (local vs global)](etapa-3/esccopo_variaveis.MD)
 
-Funções com parâmetros padrão e nomeados
+[Funções com parâmetros padrão e nomeados](etapa-3/funcoes_params.MD)
 
-Funções como objetos (passar funções como parâmetro)
+[Funções como objetos (passar funções como parâmetro)](etapa-3/funcoes_objetos.MD)
+
+[Exercicios](etapa-3/exercicios_etapa-3.md)
+
+[Desafio](etapa-3/desafio.md)
 
 ✅ Etapa 4: Manipulação de Strings e Arquivos
 Objetivo: Aprender a trabalhar com textos e persistência simples.
