@@ -1,3 +1,6 @@
 *.venv
 *.pytest_cache
 *.coverage
+testes
+Archive.zip
+.DS_Store

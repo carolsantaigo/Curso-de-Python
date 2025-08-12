@@ -37,7 +37,7 @@ Objetivo: Aprender a armazenar, acessar e manipular coleções de dados.
 
 [Exercícios com CRUD em listas e dicionários](etapa-2/exercicios_etapa-2.md)
 
-✅ Etapa 3: Funções
+Etapa 3: Funções
 Objetivo: Modularizar o código e introduzir conceitos de escopo e reutilização.
 
 [Declaração e chamada de funções (def)](etapa-3/funcoes.MD)
@@ -56,33 +56,37 @@ Objetivo: Modularizar o código e introduzir conceitos de escopo e reutilizaçã
 
 [Desafio](etapa-3/desafio.md)
 
-✅ Etapa 4: Manipulação de Strings e Arquivos
+## Etapa 4: Manipulação de Strings e Arquivos
 Objetivo: Aprender a trabalhar com textos e persistência simples.
 
-Métodos de string (split, join, replace, find, etc.)
+[Métodos de string](etapa-4/strings_metodos.md)
 
-Fatiamento e formatação de strings
+[Fatiamento e formatação de strings](etapa-4/strings_formatacao.md)
 
-Leitura e escrita de arquivos (open, read, write, with)
+[Leitura e escrita de arquivos](etapa-4/arquivos_io.md)
 
-Manipulação de arquivos .txt e .csv simples
+[Manipulação de arquivos .txt e .csv](etapa-4/arquivos_txt_csv.md)
 
-Projeto prático: Leitor de arquivos e extrator de informações
+[Projeto prático: Leitor de arquivos](etapa-4/projeto_leitor_arquivos.md)
 
-✅ Etapa 5: Tratamento de Erros e Debug
+[Exercícios](etapa-4/exercicios_etapa-4.md)
+
+## Etapa 5: Tratamento de Erros e Debug
 Objetivo: Ensinar como lidar com erros e tornar o código mais robusto.
 
-Tipos comuns de erros
+[Tipos comuns de erros](etapa-5/tipos_erros.md)
 
-Uso do try, except, else, finally
+[Tratamento de exceções (try/except/else/finally)](etapa-5/tratamento_excecoes.md)
 
-Levantar exceções com raise
+[Levantar exceções com raise](etapa-5/raise_excecoes.md)
 
-Boas práticas para mensagens de erro
+[Boas práticas para mensagens de erro](etapa-5/boas_praticas_erros.md)
 
-Ferramentas de debug (prints, breakpoints no VSCode)
+[Ferramentas de debug](etapa-5/ferramentas_debug.md)
 
-✅ Etapa 6: Programação Orientada a Objetos (POO)
+[Exercícios](etapa-5/exercicios_etapa-5.md)
+
+Etapa 6: Programação Orientada a Objetos (POO)
 Objetivo: Introdução ao paradigma mais usado em projetos profissionais.
 
 Classes e objetos
@@ -97,7 +101,7 @@ Herança e Polimorfismo (nível introdutório)
 
 Projeto prático: Cadastro de produtos ou sistema bancário
 
-✅ Etapa 7: Módulos, Pacotes e Ambiente
+Etapa 7: Módulos, Pacotes e Ambiente
 Objetivo: Organizar melhor os projetos e usar bibliotecas externas.
 
 Módulos e importações (import, from, as)
@@ -110,7 +114,7 @@ pip e instalação de pacotes
 
 Introdução ao requirements.txt
 
-✅ Etapa 8: Bibliotecas Populares para Iniciantes
+Etapa 8: Bibliotecas Populares para Iniciantes
 Objetivo: Mostrar utilidades práticas com bibliotecas reais.
 
 math e random
@@ -123,7 +127,7 @@ requests (requisições HTTP simples)
 
 pandas e matplotlib (análise e visualização de dados básicos)
 
-✅ Etapa 9: Projetos Guiados
+Etapa 9: Projetos Guiados
 Objetivo: Consolidar o aprendizado com aplicações práticas.
 
 To-do list com arquivos
@@ -136,7 +140,7 @@ Web scraping básico com requests + BeautifulSoup
 
 CRUD com JSON persistido
 
-✅ Etapa 10: Caminhos Futuros (Especializações)
+Etapa 10: Caminhos Futuros (Especializações)
 
 Web: Flask, Django
 
